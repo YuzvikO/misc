@@ -161,5 +161,4 @@ var Event = (function() {
 			}
 		}
 	}
-
 })();
